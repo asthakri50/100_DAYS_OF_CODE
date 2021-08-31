@@ -4,11 +4,11 @@ DAY 1
 
 
 ### Easy
-- [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) 
-- [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)
-- [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
-- [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
-- [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)
-- [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-- [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
-- [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+- [Build Array from Permutation](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day1/1.java) 
+- [Concatenation of Array](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day1/2.java)
+- [Running Sum of 1d Array](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day1/3.java)
+- [Richest Customer Wealth](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day1/4.java)
+- [Shuffle the Array](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day1/5.java)
+- [Kids With the Greatest Number of Candies](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day1/6.java)
+- [Number of Good Pairs](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day1/7.java)
+- [How Many Numbers Are Smaller Than the Current Number](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day1/8.java)
