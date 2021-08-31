@@ -12,4 +12,4 @@ I owe to complete this 100 days of coding challenge.
 ## Contents
 
 - <b>Day 1</b> - [Arrays](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day1)
-- <b>Day 1</b> - [Working With Arrays](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day2)
+- <b>Day 2</b> - [Working With Arrays](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day2)
