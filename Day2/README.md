@@ -5,7 +5,7 @@ DAY 2
 ### Easy
 
 - [Minimum Moves to Equal Array Elements](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day2/1.java)
--
+
 
 ### Medium
 
