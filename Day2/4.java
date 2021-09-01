@@ -59,3 +59,34 @@ class Solution {
 }
 
 // Gave TLE To last 3 Cases
+
+class Solution {
+    public int arrayNesting(int[] nums) {
+        if (nums.length == 1)
+            return 1;
+
+        int res = 0;
+        boolean[] visited = new boolean[nums.length];
+
+        for (int i = 0; i < nums.length; i++) {
+            Arrays.fill(visited, false);
+            int count = 0;
+            int idx = i;
+
+            while (idx < nums.length) {
+                if (visited[idx] == true) {
+                    res = Math.max(res, count);
+                    break;
+                } else {
+                    visited[idx] = true;
+                    count++;
+                    idx = nums[idx];
+                }
+            }
+        }
+
+        return res;
+    }
+}
+
+// Submitted
