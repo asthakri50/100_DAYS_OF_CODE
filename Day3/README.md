@@ -4,7 +4,8 @@ DAY 3
 
 ### Easy
 
-- [Count Primes]((https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day3/2.java)
+- [Count Primes](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day3/2.java)
+- [Ugly Numbers](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day3/3.java)
 
 ### Medium
 
