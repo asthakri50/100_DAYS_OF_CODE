@@ -15,4 +15,4 @@ I owe to complete this 100 days of coding challenge.
 - <b>Day 2</b> - [Working With Arrays](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day2)
 - <b>Day 3</b> - [Maths](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day3)
 - <b>Day 4</b> - [Searching](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day4)
-- <b>Day 4</b> - [Sorting](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day5)
+- <b>Day 5</b> - [Sorting](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day5)
