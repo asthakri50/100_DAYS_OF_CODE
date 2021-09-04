@@ -5,3 +5,7 @@ DAY 4
 ### Easy
 
 - [Minimum Absolute Difference](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day5/1.java)
+
+### Medium
+
+- [Kth Largest Element in an Array](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day5/2.java)
