@@ -1,5 +1,5 @@
 <h1 align="center"> 
-DAY 4
+DAY 5
 </h1>
 
 ### Easy
