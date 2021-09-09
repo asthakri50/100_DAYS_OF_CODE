@@ -9,3 +9,5 @@ DAY 8
 ### Medium
 
 - [String to Integer (atoi)](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day8/1.java)
+
+- [Count and Say](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day8/3.java)
