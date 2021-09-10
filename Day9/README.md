@@ -11,6 +11,8 @@ DAY 9
 
 - [Palindrome Linked List](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day9/5.java)
 
+- [Linked List Cycle](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day9/6.java)
+
 ### Medium
 
 - [Remove Nth Node From End of List](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day9/2.java)
