@@ -8,6 +8,8 @@ DAY 10
 
 - [Symmetric Tree](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day10/3.java)
 
+- [Convert Sorted Array to Binary Search Tree](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day10/5.java)
+
 ### Medium
 
 - [Validate Binary Search Tree](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day10/2.java)
