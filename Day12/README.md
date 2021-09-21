@@ -7,3 +7,5 @@ DAY 12
 - [Climbing Stairs](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day12/1.java)
 
 - [Best Time to Buy and Sell Stock](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day12/2.java)
+
+- [Maximum Subarray](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day12/3.java)
