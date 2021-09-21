@@ -22,3 +22,4 @@ I owe to complete this 100 days of coding challenge.
 - <b>Day 9</b> - [Linked List](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day9)
 - <b>Day 10</b> - [Trees](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day10)
 - <b>Day 11</b> - [Sorting & Searching](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day11)
+- <b>Day 12</b> - [Dynamic Programming](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day12)
