@@ -6,4 +6,4 @@ DAY 13
 
 - [Implement Stack From Scratch](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day13/1.java)
 
-- []
+- [Implement two stacks in an array](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day13/2.java)
