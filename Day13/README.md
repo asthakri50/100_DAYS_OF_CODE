@@ -11,3 +11,5 @@ DAY 13
 - [Parenthesis Checker](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day13/3.java)
 
 - [Reverse a string using Stack](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day13/4.java)
+
+- [Special Stack or Min Stack](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day13/5.java)
