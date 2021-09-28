@@ -24,3 +24,4 @@ I owe to complete this 100 days of coding challenge.
 - <b>Day 11</b> - [Sorting & Searching](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day11)
 - <b>Day 12</b> - [Dynamic Programming](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day12)
 - <b>Day 13</b> - [Stack](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day13)
+- <b>Day 14</b> - [Stack](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day14)
