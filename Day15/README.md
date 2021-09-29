@@ -7,3 +7,5 @@ DAY 15
 - [Spiral Order Matrix I](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day15/1.java)
 
 - [Wave Array](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day15/2.java)
+
+- [Anti Diagonals](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day15/3.java)
