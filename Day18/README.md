@@ -11,3 +11,5 @@ DAY 18
 ### Medium
 
 - [Longest Common Subsequence](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day18/1.java)
+
+- [Least Common Ancestor](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day18/4.java)
