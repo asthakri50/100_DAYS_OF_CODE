@@ -27,3 +27,5 @@ I owe to complete this 100 days of coding challenge.
 - <b>Day 14</b> - [Stack](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day14)
 - <b>Day 15</b> - [Miscellaneous](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day15)
 - <b>Day 16</b> - [Miscellaneous](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day16)
+- <b>Day 17</b> - [Miscellaneous](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day17)
+- <b>Day 18</b> - [Miscellaneous](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day18)
