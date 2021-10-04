@@ -4,7 +4,7 @@ DAY 19
 
 ### Easy
 
-- []
+- [Island Perimeter](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day19/2.java)
 
 ### Medium
 
