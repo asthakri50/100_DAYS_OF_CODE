@@ -5,3 +5,7 @@ DAY 20
 ### Easy
 
 - [Climbing Stairs](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day020/1.java)
+
+- [Which Mixture](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day020/2.java)
+
+- [Three Boxes](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day020/3.java)
