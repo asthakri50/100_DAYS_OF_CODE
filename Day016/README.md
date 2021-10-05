@@ -4,4 +4,4 @@ DAY 16
 
 ### Easy
 
-- [Min Stack](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day16/1.java)
+- [Min Stack](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day016/1.java)

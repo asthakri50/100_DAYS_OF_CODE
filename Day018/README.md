@@ -4,12 +4,12 @@ DAY 18
 
 ### Easy
 
-- [Convert 1D Array Into 2D Array](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day18/2.java)
+- [Convert 1D Array Into 2D Array](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day018/2.java)
 
-- [Number of Pairs of Strings With Concatenation Equal to Target](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day18/3.java)
+- [Number of Pairs of Strings With Concatenation Equal to Target](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day018/3.java)
 
 ### Medium
 
-- [Longest Common Subsequence](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day18/1.java)
+- [Longest Common Subsequence](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day018/1.java)
 
-- [Least Common Ancestor](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day18/4.java)
+- [Least Common Ancestor](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day018/4.java)

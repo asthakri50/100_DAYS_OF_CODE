@@ -4,6 +4,6 @@ DAY 11
 
 ### Easy
 
-- [Merge Sorted Array](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day11/1.java)
+- [Merge Sorted Array](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day011/1.java)
 
-- [First Bad Version](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day11/2.java)
+- [First Bad Version](https://github.com/asthakri50/100_DAYS_OF_CODE/blob/main/Day011/2.java)
