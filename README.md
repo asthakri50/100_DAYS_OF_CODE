@@ -31,3 +31,4 @@ I owe to complete this 100 days of coding challenge.
 - <b>Day 18</b> - [Miscellaneous](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day018)
 - <b>Day 19</b> - [Miscellaneous](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day019)
 - <b>Day 20</b> - [Miscellaneous](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day020)
+- <b>Day 21</b> - [Miscellaneous](https://github.com/asthakri50/100_DAYS_OF_CODE/tree/main/Day021)
